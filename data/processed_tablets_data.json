@@ -1,330 +1,5 @@
 [
   {
-    "name": "Máy tính bảng OPPO Pad SE WiFi màn hình nhám 4GB/128GB",
-    "brand": "OPPO",
-    "price": {
-      "value": "5.890.000₫",
-      "currency": "₫",
-      "numeric": 5890000
-    },
-    "priceOld": {
-      "value": "",
-      "currency": "",
-      "numeric": 0
-    },
-    "discount": "",
-    "image": "https://cdn.tgdd.vn/Products/Images/522/339287/oppo-pad-se-sliver-thumb-600x600.jpg",
-    "color": "Bạc",
-    "specifications": [
-      {
-        "category": "Màn hình",
-        "items": [
-          {
-            "label": "Công nghệ màn hình",
-            "value": "IPS LCD",
-            "type": "string"
-          },
-          {
-            "label": "Độ phân giải",
-            "value": "1200 x 2000 Pixels",
-            "type": "string"
-          },
-          {
-            "label": "Màn hình rộng",
-            "value": "11\" - Tần số quét 90 Hz",
-            "type": "string"
-          }
-        ],
-        "itemCount": 3
-      },
-      {
-        "category": "Hệ điều hành & CPU",
-        "items": [
-          {
-            "label": "Hệ điều hành",
-            "value": "Android 15",
-            "type": "string"
-          },
-          {
-            "label": "Chip xử lý (CPU)",
-            "value": "MediaTek Helio G100 8 nhân",
-            "type": "string"
-          },
-          {
-            "label": "Tốc độ CPU",
-            "value": "2 nhân 2.2 GHz & 6 nhân 2 GHz",
-            "type": "string"
-          },
-          {
-            "label": "Chip đồ hoạ (GPU)",
-            "value": "Adreno 610",
-            "type": "string"
-          }
-        ],
-        "itemCount": 4
-      },
-      {
-        "category": "Bộ nhớ &  Lưu trữ",
-        "items": [
-          {
-            "label": "RAM",
-            "value": "4 GB",
-            "type": "string"
-          },
-          {
-            "label": "Dung lượng lưu trữ",
-            "value": "128 GB",
-            "type": "string"
-          },
-          {
-            "label": "Dung lượng còn lại (khả dụng) khoảng",
-            "value": "103.8 GB",
-            "type": "string"
-          }
-        ],
-        "itemCount": 3
-      },
-      {
-        "category": "Camera sau",
-        "items": [
-          {
-            "label": "Độ phân giải",
-            "value": "5 MP",
-            "type": "string"
-          },
-          {
-            "label": "Quay phim",
-            "value": [
-              "HD 720p@30fps",
-              "FullHD 1080p@30fps"
-            ],
-            "type": "array"
-          },
-          {
-            "label": "Tính năng",
-            "value": [
-              "Tua nhanh thời gian (Time‑lapse)",
-              "Toàn cảnh (Panorama)",
-              "Nhãn dán (AR Stickers)",
-              "Tự động lấy nét"
-            ],
-            "type": "array"
-          }
-        ],
-        "itemCount": 3
-      },
-      {
-        "category": "Camera trước",
-        "items": [
-          {
-            "label": "Độ phân giải",
-            "value": "5 MP",
-            "type": "string"
-          },
-          {
-            "label": "Tính năng",
-            "value": [
-              "Trôi nhanh thời gian (Time Lapse)",
-              "Toàn cảnh (Panorama)",
-              "Quay video HD",
-              "Quay video Full HD",
-              "Nhãn dán (AR Stickers)",
-              "Làm đẹp",
-              "Flash màn hình"
-            ],
-            "type": "array"
-          }
-        ],
-        "itemCount": 2
-      },
-      {
-        "category": "Kết nối",
-        "items": [
-          {
-            "label": "Wifi",
-            "value": [
-              "Wi-Fi Display",
-              "Wi-Fi 802.11 a/b/g/n",
-              "Wi-Fi 5",
-              "Dual-band"
-            ],
-            "type": "array"
-          },
-          {
-            "label": "Bluetooth",
-            "value": "v5.0",
-            "type": "string"
-          },
-          {
-            "label": "Cổng kết nối/sạc",
-            "value": "Type-C",
-            "type": "string"
-          },
-          {
-            "label": "Jack tai nghe",
-            "value": "Type-C",
-            "type": "string"
-          },
-          {
-            "label": "Kết nối khác",
-            "value": "OTG",
-            "type": "string"
-          }
-        ],
-        "itemCount": 5
-      },
-      {
-        "category": "Tiện ích",
-        "items": [
-          {
-            "label": "Tính năng đặc biệt",
-            "value": [
-              "Xoá vật thể AI",
-              "Xoá phản chiếu AI",
-              "Tăng cường độ nét AI",
-              "Tóm tắt tài liệu AI",
-              "Trợ lý viết AI",
-              "Trợ lý Google Gemini",
-              "Làm rõ ảnh mờ AI",
-              "Dịch văn bản AI",
-              "Âm thanh Hi-Res Audio",
-              "Mở khóa bằng khuôn mặt",
-              "Chế độ trẻ em"
-            ],
-            "type": "array"
-          },
-          {
-            "label": "Kháng nước, bụi",
-            "value": "IPX2",
-            "type": "string"
-          },
-          {
-            "label": "Ghi âm",
-            "value": "Có",
-            "type": "string"
-          }
-        ],
-        "itemCount": 3
-      },
-      {
-        "category": "Pin & Sạc",
-        "items": [
-          {
-            "label": "Dung lượng pin",
-            "value": "9340 mAh",
-            "type": "string"
-          },
-          {
-            "label": "Loại pin",
-            "value": "Li-Po",
-            "type": "string"
-          },
-          {
-            "label": "Công nghệ pin",
-            "value": [
-              "SUPERVOOC",
-              "Tiết kiệm pin"
-            ],
-            "type": "array"
-          },
-          {
-            "label": "Hỗ trợ sạc tối đa",
-            "value": "33 W",
-            "type": "string"
-          }
-        ],
-        "itemCount": 4
-      },
-      {
-        "category": "Thông tin chung",
-        "items": [
-          {
-            "label": "Chất liệu",
-            "value": "Khung nhựa & Mặt lưng hợp kim nhôm",
-            "type": "string"
-          },
-          {
-            "label": "Kích thước, khối lượng",
-            "value": "Dài 254.91 mm - Ngang 166.46 mm - Dày 7.39 mm - Nặng 527 g",
-            "type": "string"
-          },
-          {
-            "label": "Thời điểm ra mắt",
-            "value": "07/2025",
-            "type": "string"
-          },
-          {
-            "label": "Hãng",
-            "value": "OPPO. Xem thông tin hãng",
-            "type": "string"
-          }
-        ],
-        "itemCount": 4
-      }
-    ],
-    "colorOptions": [
-      {
-        "name": "Bạc",
-        "isActive": true,
-        "colorCode": "5",
-        "productCode": "2440931001089",
-        "colorStyle": "background-color:#F2F2F2",
-        "hexColor": "#F2F2F2"
-      }
-    ],
-    "images": {
-      "count": 15,
-      "urls": [
-        "https://cdnv2.tgdd.vn/mwg-static/tgdd/Products/Images/522/339287/oppo-pad-se-nham-bac-1-638889655186313001-750x500.jpg",
-        "https://cdnv2.tgdd.vn/mwg-static/tgdd/Products/Images/522/339287/oppo-pad-se-nham-bac-2-638889655194489538-750x500.jpg",
-        "https://cdnv2.tgdd.vn/mwg-static/tgdd/Products/Images/522/339287/oppo-pad-se-nham-bac-3-638889655202340630-750x500.jpg",
-        "https://cdnv2.tgdd.vn/mwg-static/tgdd/Products/Images/522/339287/oppo-pad-se-nham-bac-4-638889655209739257-750x500.jpg",
-        "https://cdnv2.tgdd.vn/mwg-static/tgdd/Products/Images/522/339287/oppo-pad-se-nham-bac-5-638889655216025344-750x500.jpg",
-        "https://cdnv2.tgdd.vn/mwg-static/tgdd/Products/Images/522/339287/oppo-pad-se-nham-bac-6-638889655222238643-750x500.jpg",
-        "https://cdnv2.tgdd.vn/mwg-static/tgdd/Products/Images/522/339287/oppo-pad-se-nham-bac-7-638889655228935984-750x500.jpg",
-        "https://cdnv2.tgdd.vn/mwg-static/tgdd/Products/Images/522/339287/oppo-pad-se-nham-bac-8-638889655234816718-750x500.jpg",
-        "https://cdnv2.tgdd.vn/mwg-static/tgdd/Products/Images/522/339287/oppo-pad-se-nham-bac-9-638889655240456578-750x500.jpg",
-        "https://cdnv2.tgdd.vn/mwg-static/tgdd/Products/Images/522/339287/oppo-pad-se-nham-bac-10-638889655246496443-750x500.jpg",
-        "https://cdnv2.tgdd.vn/mwg-static/tgdd/Products/Images/522/339287/oppo-pad-se-nham-bac-11-638889655252594859-750x500.jpg",
-        "https://cdnv2.tgdd.vn/mwg-static/tgdd/Products/Images/522/339287/oppo-pad-se-nham-bac-12-638889655259218795-750x500.jpg",
-        "https://cdnv2.tgdd.vn/mwg-static/tgdd/Products/Images/522/339287/oppo-pad-se-nham-bac-13-638889655264739742-750x500.jpg",
-        "https://cdnv2.tgdd.vn/mwg-static/tgdd/Products/Images/522/339287/Kit/oppo-pad-se-nham-bbh-638889655940254259.jpg",
-        "https://cdn.tgdd.vn/Products/Images/522/339287/oppo-pad-se-sliver-thumb-600x600.jpg"
-      ],
-      "categories": {
-        "slider": [],
-        "product": [
-          "https://cdnv2.tgdd.vn/mwg-static/tgdd/Products/Images/522/339287/oppo-pad-se-nham-bac-1-638889655186313001-750x500.jpg",
-          "https://cdnv2.tgdd.vn/mwg-static/tgdd/Products/Images/522/339287/oppo-pad-se-nham-bac-2-638889655194489538-750x500.jpg",
-          "https://cdnv2.tgdd.vn/mwg-static/tgdd/Products/Images/522/339287/oppo-pad-se-nham-bac-3-638889655202340630-750x500.jpg",
-          "https://cdnv2.tgdd.vn/mwg-static/tgdd/Products/Images/522/339287/oppo-pad-se-nham-bac-4-638889655209739257-750x500.jpg",
-          "https://cdnv2.tgdd.vn/mwg-static/tgdd/Products/Images/522/339287/oppo-pad-se-nham-bac-5-638889655216025344-750x500.jpg"
-        ],
-        "kit": [
-          "https://cdnv2.tgdd.vn/mwg-static/tgdd/Products/Images/522/339287/Kit/oppo-pad-se-nham-bbh-638889655940254259.jpg"
-        ],
-        "other": [
-          "https://cdnv2.tgdd.vn/mwg-static/tgdd/Products/Images/522/339287/oppo-pad-se-nham-bac-6-638889655222238643-750x500.jpg",
-          "https://cdnv2.tgdd.vn/mwg-static/tgdd/Products/Images/522/339287/oppo-pad-se-nham-bac-7-638889655228935984-750x500.jpg",
-          "https://cdnv2.tgdd.vn/mwg-static/tgdd/Products/Images/522/339287/oppo-pad-se-nham-bac-8-638889655234816718-750x500.jpg",
-          "https://cdnv2.tgdd.vn/mwg-static/tgdd/Products/Images/522/339287/oppo-pad-se-nham-bac-9-638889655240456578-750x500.jpg",
-          "https://cdnv2.tgdd.vn/mwg-static/tgdd/Products/Images/522/339287/oppo-pad-se-nham-bac-10-638889655246496443-750x500.jpg",
-          "https://cdnv2.tgdd.vn/mwg-static/tgdd/Products/Images/522/339287/oppo-pad-se-nham-bac-11-638889655252594859-750x500.jpg",
-          "https://cdnv2.tgdd.vn/mwg-static/tgdd/Products/Images/522/339287/oppo-pad-se-nham-bac-12-638889655259218795-750x500.jpg",
-          "https://cdnv2.tgdd.vn/mwg-static/tgdd/Products/Images/522/339287/oppo-pad-se-nham-bac-13-638889655264739742-750x500.jpg",
-          "https://cdn.tgdd.vn/Products/Images/522/339287/oppo-pad-se-sliver-thumb-600x600.jpg"
-        ]
-      }
-    },
-    "summary": {
-      "specCount": 9,
-      "colorCount": 1,
-      "imageCount": 15,
-      "hasDiscount": false,
-      "hasOldPrice": false
-    }
-  },
-  {
     "name": "Máy tính bảng iPad A16 WiFi 128GB",
     "brand": "iPad (Apple)",
     "price": {
@@ -339,7 +14,6 @@
     },
     "discount": "-1%",
     "image": "https://cdn.tgdd.vn/Products/Images/522/335308/ipad-11-wifi-yellow-thumb-600x600.jpg",
-    "color": "Vàng",
     "specifications": [
       {
         "category": "Màn hình",
@@ -714,7 +388,6 @@
     },
     "discount": "",
     "image": "https://cdn.tgdd.vn/Products/Images/522/335311/ipad-11-5g-yellow-thumb-600x600.jpg",
-    "color": "Vàng",
     "specifications": [
       {
         "category": "Màn hình",
@@ -1101,7 +774,6 @@
     },
     "discount": "",
     "image": "https://cdn.tgdd.vn/Products/Images/522/322613/oppo-pad-neo-6gb-thumb-1-600x600.jpg",
-    "color": "Xám",
     "specifications": [
       {
         "category": "Màn hình",
@@ -1489,7 +1161,6 @@
     },
     "discount": "",
     "image": "https://cdn.tgdd.vn/Products/Images/522/343061/samsung-galaxy-tab-s10-lite-bac-thumb-600x600.jpg",
-    "color": "Bạc",
     "specifications": [
       {
         "category": "Màn hình",
@@ -1811,7 +1482,6 @@
     },
     "discount": "",
     "image": "https://cdn.tgdd.vn/Products/Images/522/320989/tcl-tab-10l-gen-2-black-thumb-600x600.jpg",
-    "color": "Đen",
     "specifications": [
       {
         "category": "Màn hình",
@@ -2151,7 +1821,6 @@
     },
     "discount": "",
     "image": "https://cdnv2.tgdd.vn/mwg-static/tgdd/Products/Images/522/345544/honor-pad-x7-wifi-4gb-64gb-150925-041634-575-600x600.jpg",
-    "color": "Xám",
     "specifications": [
       {
         "category": "Màn hình",
@@ -2441,7 +2110,6 @@
     },
     "discount": "",
     "image": "https://cdn.tgdd.vn/Products/Images/522/344721/samsung-galaxy-tab-s11-gray-thumb-600x600.jpg",
-    "color": "Xám",
     "specifications": [
       {
         "category": "Màn hình",
@@ -2801,7 +2469,6 @@
     },
     "discount": "",
     "image": "https://cdn.tgdd.vn/Products/Images/522/342548/lenovo-idea-tab-5g-blue-thumb-600x600.jpg",
-    "color": "Xanh Dương",
     "specifications": [
       {
         "category": "Màn hình",
@@ -3138,7 +2805,6 @@
     },
     "discount": "",
     "image": "https://cdn.tgdd.vn/Products/Images/522/339204/xiaomi-redmi-pad-2-gray-thumb-600x600.jpg",
-    "color": "Xám",
     "specifications": [
       {
         "category": "Màn hình",
@@ -3488,7 +3154,6 @@
     },
     "discount": "",
     "image": "https://cdn.tgdd.vn/Products/Images/522/340148/masstel-tab-11-ultra-green-thumb-600x600.jpg",
-    "color": "Xanh lá",
     "specifications": [
       {
         "category": "Màn hình",
@@ -3841,7 +3506,6 @@
     },
     "discount": "-1%",
     "image": "https://cdn.tgdd.vn/Products/Images/522/331229/ipad-mini-7-wifi-purple-thumb-600x600.jpg",
-    "color": "Tím",
     "specifications": [
       {
         "category": "Màn hình",
@@ -4224,7 +3888,6 @@
     },
     "discount": "",
     "image": "https://cdn.tgdd.vn/Products/Images/522/335275/ipad-air-m3-13-inch-wifi-purple-thumb-600x600.jpg",
-    "color": "Tím",
     "specifications": [
       {
         "category": "Màn hình",
@@ -4604,7 +4267,6 @@
     },
     "discount": "-20%",
     "image": "https://cdn.tgdd.vn/Products/Images/522/303299/samsung-galaxy-tab-s9-grey-thumbnew-600x600.jpg",
-    "color": "Xám",
     "specifications": [
       {
         "category": "Màn hình",
@@ -5012,7 +4674,6 @@
     },
     "discount": "-4%",
     "image": "https://cdn.tgdd.vn/Products/Images/522/322134/samsung-galaxy-tab-s6-lite-2024-grey-thumb-600x600.jpg",
-    "color": "Xám",
     "specifications": [
       {
         "category": "Màn hình",
@@ -5416,7 +5077,6 @@
     },
     "discount": "",
     "image": "https://cdn.tgdd.vn/Products/Images/522/334530/xiaomi-pad-7-blue-thumb-600x600.jpg",
-    "color": "Xanh Dương",
     "specifications": [
       {
         "category": "Màn hình",
@@ -5744,7 +5404,6 @@
     },
     "discount": "",
     "image": "https://cdn.tgdd.vn/Products/Images/522/334527/xiaomi-pad-7-pro-gray-thumb-600x600.jpg",
-    "color": "Xám",
     "specifications": [
       {
         "category": "Màn hình",
@@ -6072,7 +5731,6 @@
     },
     "discount": "-5%",
     "image": "https://cdnv2.tgdd.vn/mwg-static/tgdd/Products/Images/522/333917/oppo-pad-3-bac-thumb-638725440842878647-600x600.jpg",
-    "color": "Bạc",
     "specifications": [
       {
         "category": "Màn hình",
@@ -6421,7 +6079,6 @@
     },
     "discount": "-5%",
     "image": "https://cdn.tgdd.vn/Products/Images/522/332555/oppo-pad-3-pro-thumb-600x600.jpg",
-    "color": "Xanh",
     "specifications": [
       {
         "category": "Màn hình",
@@ -6780,7 +6437,6 @@
     },
     "discount": "",
     "image": "https://cdn.tgdd.vn/Products/Images/522/320990/tcl-tab-10-gen-2-thumb-600x600.jpg",
-    "color": "Xám",
     "specifications": [
       {
         "category": "Màn hình",
@@ -7162,7 +6818,6 @@
     },
     "discount": "-3%",
     "image": "https://cdn.tgdd.vn/Products/Images/522/327293/lenovo-tab-plus-wifi-8gb-256gb-thumb-600x600.jpg",
-    "color": "Xám",
     "specifications": [
       {
         "category": "Màn hình",
@@ -7518,7 +7173,6 @@
     },
     "discount": "-1%",
     "image": "https://cdn.tgdd.vn/Products/Images/522/325513/ipad-pro-11-inch-m4-wifi-sliver-thumb-600x600.jpg",
-    "color": "Bạc",
     "specifications": [
       {
         "category": "Màn hình",
@@ -7907,7 +7561,6 @@
     },
     "discount": "-2%",
     "image": "https://cdn.tgdd.vn/Products/Images/522/325517/ipad-pro-13-inch-m4-wifi-black-thumb-600x600.jpg",
-    "color": "Đen",
     "specifications": [
       {
         "category": "Màn hình",
@@ -8292,7 +7945,6 @@
     },
     "discount": "-25%",
     "image": "https://cdn.tgdd.vn/Products/Images/522/311063/samsung-galaxy-tab-s9-kem-thumbnew-600x600.jpg",
-    "color": "Kem",
     "specifications": [
       {
         "category": "Màn hình",
@@ -8710,7 +8362,6 @@
     },
     "discount": "-9%",
     "image": "https://cdn.tgdd.vn/Products/Images/522/336740/samsung-galaxy-tab-s10-fe-plus-gray-thumb-600x600.jpg",
-    "color": "Xám",
     "specifications": [
       {
         "category": "Màn hình",
@@ -9067,7 +8718,6 @@
     },
     "discount": "",
     "image": "https://cdn.tgdd.vn/Products/Images/522/328520/redmi-pad-se-8-7-wifi-grey-thumb-600x600.jpg",
-    "color": "Xám",
     "specifications": [
       {
         "category": "Màn hình",
@@ -9437,7 +9087,6 @@
     },
     "discount": "-3%",
     "image": "https://cdn.tgdd.vn/Products/Images/522/315622/xiaomi-redmi-pad-se-tim-thumb-600x600.jpeg",
-    "color": "Tím",
     "specifications": [
       {
         "category": "Màn hình",
@@ -9821,7 +9470,6 @@
     },
     "discount": "",
     "image": "https://cdn.tgdd.vn/Products/Images/522/320991/tcl-tab-11-xam-thumb-600x600.jpg",
-    "color": "Xám",
     "specifications": [
       {
         "category": "Màn hình",
@@ -10206,7 +9854,6 @@
     },
     "discount": "-3%",
     "image": "https://cdnv2.tgdd.vn/mwg-static/tgdd/Products/Images/522/334991/lenovo-tab-4g-240225-052719-026-600x600.jpg",
-    "color": "Xám",
     "specifications": [
       {
         "category": "Màn hình",
@@ -10577,7 +10224,6 @@
     },
     "discount": "-15%",
     "image": "https://cdn.tgdd.vn/Products/Images/522/322130/samsung-galaxy-tab-s10-plus-gray-thumb-600x600.jpg",
-    "color": "Xám",
     "specifications": [
       {
         "category": "Màn hình",
@@ -10952,7 +10598,6 @@
     },
     "discount": "-4%",
     "image": "https://cdn.tgdd.vn/Products/Images/522/317623/samsung-galaxy-a9-plus-bac-thumb-600x600.jpg",
-    "color": "Bạc",
     "specifications": [
       {
         "category": "Màn hình",
@@ -11353,7 +10998,6 @@
     },
     "discount": "",
     "image": "https://cdn.tgdd.vn/Products/Images/522/328523/redmi-pad-se-8-7-wifi-green-thumb-600x600.jpg",
-    "color": "Xanh lá",
     "specifications": [
       {
         "category": "Màn hình",
@@ -11742,7 +11386,6 @@
     },
     "discount": "-1%",
     "image": "https://cdn.tgdd.vn/Products/Images/522/331232/ipad-mini-7-5g-starlight-thumb-600x600.jpg",
-    "color": "Trắng Starlight",
     "specifications": [
       {
         "category": "Màn hình",
@@ -12135,7 +11778,6 @@
     },
     "discount": "",
     "image": "https://cdn.tgdd.vn/Products/Images/522/335271/ipad-air-m3-11-inch-5g-starlight-thumb-600x600.jpg",
-    "color": "Trắng Starlight",
     "specifications": [
       {
         "category": "Màn hình",
@@ -12523,7 +12165,6 @@
     },
     "discount": "-7%",
     "image": "https://cdn.tgdd.vn/Products/Images/522/336738/samsung-galaxy-tab-s10-fe-blue-thumb-600x600.jpg",
-    "color": "Xanh Dương",
     "specifications": [
       {
         "category": "Màn hình",
@@ -12895,7 +12536,6 @@
     },
     "discount": "",
     "image": "https://cdn.tgdd.vn/Products/Images/522/335279/ipad-air-m3-13-inch-5g-purple-thumb-600x600.jpg",
-    "color": "Tím",
     "specifications": [
       {
         "category": "Màn hình",
@@ -13285,7 +12925,6 @@
     },
     "discount": "-4%",
     "image": "https://cdn.tgdd.vn/Products/Images/522/325534/ipad-pro-13-inch-m4-lte-black-thumb-600x600.jpg",
-    "color": "Đen",
     "specifications": [
       {
         "category": "Màn hình",
@@ -13681,7 +13320,6 @@
     },
     "discount": "",
     "image": "https://cdn.tgdd.vn/Products/Images/522/317621/samsung-galaxy-tab-a9-bac-thumb-600x600.jpg",
-    "color": "Bạc",
     "specifications": [
       {
         "category": "Màn hình",
@@ -14091,7 +13729,6 @@
     },
     "discount": "-20%",
     "image": "https://cdn.tgdd.vn/Products/Images/522/325524/ipad-air-11-inch-m2-lte-kem-thumb-600x600.jpg",
-    "color": "Trắng Starlight",
     "specifications": [
       {
         "category": "Màn hình",
@@ -14498,7 +14135,6 @@
     },
     "discount": "-14%",
     "image": "https://cdnv2.tgdd.vn/mwg-static/tgdd/Products/Images/522/333481/samsung-galaxy-tab-a9-wifi-8gb-128gb-241224-033419-869-600x600.jpg",
-    "color": "Bạc",
     "specifications": [
       {
         "category": "Màn hình",
@@ -14882,7 +14518,6 @@
     },
     "discount": "",
     "image": "https://cdn.tgdd.vn/Products/Images/522/339207/xiaomi-redmi-pad-2-4g-green-thumb-600x600.jpg",
-    "color": "Xanh lá",
     "specifications": [
       {
         "category": "Màn hình",
@@ -15243,7 +14878,6 @@
     },
     "discount": "-1%",
     "image": "https://cdn.tgdd.vn/Products/Images/522/335267/ipad-air-m3-11-inch-wifi-blue-thumb-600x600.jpg",
-    "color": "Xanh Dương",
     "specifications": [
       {
         "category": "Màn hình",
@@ -15623,7 +15257,6 @@
     },
     "discount": "",
     "image": "https://cdn.tgdd.vn/Products/Images/522/339285/oppo-pad-se-blue-thumb-600x600.jpg",
-    "color": "Xanh",
     "specifications": [
       {
         "category": "Màn hình",
@@ -15978,7 +15611,6 @@
     },
     "discount": "-10%",
     "image": "https://cdn.tgdd.vn/Products/Images/522/336737/samsung-galaxy-tab-s10-fe-silver-thumb-600x600.jpg",
-    "color": "Bạc",
     "specifications": [
       {
         "category": "Màn hình",
@@ -16335,7 +15967,6 @@
     },
     "discount": "",
     "image": "https://cdn.tgdd.vn/Products/Images/522/325988/redmi-pad-pro-grey-thumb-1-600x600.jpg",
-    "color": "Xám",
     "specifications": [
       {
         "category": "Màn hình",
@@ -16749,7 +16380,6 @@
     },
     "discount": "",
     "image": "https://cdn.tgdd.vn/Products/Images/522/344723/samsung-galaxy-tab-s11-gray-thumb-600x600.jpg",
-    "color": "Xám",
     "specifications": [
       {
         "category": "Màn hình",
@@ -17098,7 +16728,6 @@
     },
     "discount": "",
     "image": "https://cdn.tgdd.vn/Products/Images/522/339828/honor-pad-x9a-thumb-600x600.jpg",
-    "color": "Xám",
     "specifications": [
       {
         "category": "Màn hình",
@@ -17440,7 +17069,6 @@
     },
     "discount": "",
     "image": "https://cdn.tgdd.vn/Products/Images/522/344725/samsung-galaxy-tab-s11-ultra-gray-thumb-600x600.jpg",
-    "color": "Xám",
     "specifications": [
       {
         "category": "Màn hình",
@@ -17808,7 +17436,6 @@
     },
     "discount": "",
     "image": "https://cdnv2.tgdd.vn/mwg-static/tgdd/Products/Images/522/356864/xiaomi-redmi-pad-2-pro-5g-6gb-128gb-290925-032230-759-600x600.jpg",
-    "color": "Bạc",
     "specifications": [
       {
         "category": "Màn hình",
